@@ -14,15 +14,15 @@ Most of my work today sits around **Git-based evidence**: using real contributio
 
 ### Kospex
 
-**Kospex** is a research-driven platform for analysing Git repositories to surface signals about:
+**[Kospex](https://kospex.io)** is a research-driven platform for analysing Git repositories to surface signals about:
 
-- Code maintenance and hotspots  
 - Developer contribution, tenure, and knowledge distribution  
+- Code maintenance and hotspots  
 - Key person risk and ownership gaps  
 - Open source dependency freshness and supply-chain risk  
 
 It’s not a dashboard of vanity metrics.  
-It’s an attempt to turn *version control history* into something organisations can reason about — especially in regulated, long-lived, or safety-critical environments.
+It’s a mechanism to turn *version control history* into something organisations can reason about,especially in regulated or long-lived environments.
 
 Kospex grew out of consulting work where traditional metrics (DORA, coverage, SBOMs, etc.) were useful but incomplete. The missing layer was always *people, knowledge, and time*.
 
@@ -30,7 +30,7 @@ Kospex grew out of consulting work where traditional metrics (DORA, coverage, SB
 
 ### Sabbaticas
 
-**Sabbaticas** is how I do advisory and consulting work.
+**[Sabbaticas](https://sabbaticas.com)** is how I do advisory and consulting work.
 
 It’s deliberately small and focused. I use it for:
 
@@ -45,8 +45,9 @@ If Kospex is where ideas get formalised into software, Sabbaticas is where they 
 
 ## How I can help
 
-People usually come to me when:
+I usually work with people and organisations when:
 
+- They want a data drive approach to software security and maintenance
 - They have lots of Git data, but no shared understanding of what it *means*  
 - A system “works”, but no one is confident it’s maintainable  
 - They have a gut feeling that something is wrong, but can’t put their finger on it  
@@ -54,7 +55,7 @@ People usually come to me when:
 - Security conversations are stuck between theory and checklists  
 - They want evidence-based insight, not another maturity model  
 
-I’m most useful when there’s ambiguity — technical, organisational, or both.
+I’m most useful when there’s ambiguity and limited visibility — technical, organisational, or both.
 
 ---
 
@@ -65,8 +66,6 @@ I’m most useful when there’s ambiguity — technical, organisational, or bot
 - Making tacit knowledge visible without oversimplifying it  
 - Treating software as a **socio-technical system**, not just code  
 
-This GitHub account is a mix of experiments, tools, notes, and thinking that support that work.
-
 ---
 
-If you’re trying to understand your software, not just measure it, I can help.
+If you’re trying to understand your software and capabilities, not just measure it, I can help.
